@@ -1,0 +1,34 @@
+body {
+    height: 100%;
+    width: 100%;
+}
+#container {
+    height: 1000px;
+    width: 100%;
+    background-color: blanchedalmond;
+}
+
+#header {
+    height: 300px;
+    width: 30%;
+    margin-right: auto;
+    background-color: pink;
+}
+#content {
+    height: 300px;
+    width: 30%;
+    margin-right: auto;
+    background-color: lightgreen;
+}
+#footer {
+    height: 357px;
+    width: 30%;
+    margin-right: auto;
+    background-color: burlywood;
+}
+
+.wrapped {
+    height: 100%;
+    width: 100%;
+    background-color: yellowgreen;
+}

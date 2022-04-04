@@ -1,0 +1,43 @@
+body {
+    height: 100%;
+    width: 100%;
+}
+#container {
+    height: 200%;
+    width: 200%;
+    background-color: blanchedalmond;
+}
+
+#header {
+    height: 50px;
+    width: 100%;
+    margin-right: auto;
+    background-color: pink;
+}
+
+#tambahan {
+    height: 50px;
+    width: 100%;
+    margin-right: auto;
+    background-color: rgb(210, 161, 255);
+}
+
+#content {
+    height: 50px;
+    width: 100%;
+    margin-right: auto;
+    background-color: rgb(255, 242, 126);
+}
+#footer {
+    height: 50px;
+    width: 100%;
+    margin-right: auto;
+    background-color: rgb(174, 223, 255);
+}
+
+#ngantuk {
+    height: 50px;
+    width: 100%;
+    margin-right: auto;
+    background-color: rgb(255, 222, 172);
+}
